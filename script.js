@@ -39,7 +39,8 @@ const advice = {
       "Respect isn’t requested—it’s earned.",
       "Put yourself first—you can’t pour from an empty cup.",
       "Honor your purpose and let it guide your journey.",
-      "It might be time to look for a job."
+      "It might be time to look for a job.",
+      "Family is one of life’s most valuable foundations—nurturing those relationships can bring lasting support, love, and a sense of belonging."
     ],
     friends: [
       "Be realistic—dreaming is fine, but acting is better.",
