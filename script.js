@@ -25,7 +25,8 @@ const advice = {
       "Persistence beats talent. Never give up.",
       "Don’t wait for a teacher. Be self-taught.",
       "Let success be your response—prove them wrong.",
-      "When you find yourself in a hole, the first thing to do is stop digging."
+      "When you find yourself in a hole, the first thing to do is stop digging.",
+      "With determination and effort, anyone has the potential to achieve anything they set their mind to."
     ],
     auntUncles: [
       "Make your own decisions—don’t let others write your story.",
