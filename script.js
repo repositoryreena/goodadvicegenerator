@@ -29,7 +29,9 @@ const advice = {
       "With determination and effort, anyone has the potential to achieve anything they set their mind to.",
       "Surround yourself with people who uplift and inspire you—your environment shapes your mindset.",
 "A change of scenery, like moving to a new apartment, can be a powerful way to break old habits and start fresh.",
-"The harder I work, the luckier I get."
+"The harder I work, the luckier I get.",
+"Better to ask for forgiveness than permission.",
+"Doing nothing is the worst thing you can do."
     ],
     auntUncles: [
       "Make your own decisions—don’t let others write your story.",
