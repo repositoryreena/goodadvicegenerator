@@ -28,7 +28,8 @@ const advice = {
       "When you find yourself in a hole, the first thing to do is stop digging.",
       "With determination and effort, anyone has the potential to achieve anything they set their mind to.",
       "Surround yourself with people who uplift and inspire you—your environment shapes your mindset.",
-"A change of scenery, like moving to a new apartment, can be a powerful way to break old habits and start fresh."
+"A change of scenery, like moving to a new apartment, can be a powerful way to break old habits and start fresh.",
+"The harder I work, the luckier I get."
     ],
     auntUncles: [
       "Make your own decisions—don’t let others write your story.",
